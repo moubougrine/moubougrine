@@ -74,11 +74,17 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/moubougrine/moubougrine/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
+<img align="right" height="176" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTl6MXJ5bmRtYTA4bjRhdHZiZGlyZ2x0N3JuM2hycWZlOXc3MjRqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M13Sak1ZYMj4iRl28g/giphy.gif"  />
+
+###
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moubougrine&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
