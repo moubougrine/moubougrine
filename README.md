@@ -2,15 +2,15 @@
 
 ###
 
-<h3 align="left">🤖 Domains / Areas</h3>
+<h2 align="left">🤖 Domains / Areas</h2>
 
 ###
 
-<h5 align="left">Web Development | Desktop App Development | Data Science & Machine Learning | Computer Vision | Business Intelligence | Automation Scripts | CLI Tools</h5>
+<h4 align="left">Web Development | Desktop App Development | Data Science & Machine Learning | Computer Vision | Business Intelligence | Automation Scripts | CLI Tools</h4>
 
 ###
 
-<h4 align="left">👨‍💻 Programming Languages</h4>
+<h2 align="left">👨‍💻 Programming Languages</h2>
 
 ###
 
@@ -32,31 +32,27 @@
 
 ###
 
-<h4 align="left">🗃️ Databases</h4>
+<h2 align="left">🗃️ Databases</h2>
 
 ###
 
-<h4 align="left">✨SQLite<br>✨DB2<br>✨SQL (general)</h4>
+<h3 align="left">✨SQLite<br>✨DB2<br>✨SQL (general)</h3>
 
 ###
 
-<h4 align="left">🧰 Tools & Technologies</h4>
+<h2 align="left">🧱 Frameworks & Libraries</h2>
 
 ###
 
-<h4 align="left">✨Power BI<br>✨Microsoft Excel (Advanced)<br>✨Microsoft Word<br>✨Automation (Windows, Excel)<br>✨Custom GUIs (CustomTkinter)</h4>
+<h3 align="left">✨Tkinter / CustomTkinter <br>✨OpenCV <br>✨Pandas / NumPy <br>✨Scikit-learn<br>✨Matplotlib / Seaborn<br>✨Django<br>etc.....</h3>
 
 ###
 
-<h4 align="left">🧱 Frameworks & Libraries</h4>
+<h2 align="left">🧰 Tools & Technologies</h2>
 
 ###
 
-<h4 align="left">✨Tkinter / CustomTkinter <br>✨OpenCV <br>✨Pandas / NumPy <br>✨Scikit-learn<br>✨Matplotlib / Seaborn<br>✨Django<br>etc.....</h4>
-
-###
-
-<h4 align="left"></h4>
+<h3 align="left">✨Power BI<br>✨Microsoft Excel (Advanced)<br>✨Microsoft Word<br>✨Automation (Windows, Excel)<br>✨Custom GUIs (CustomTkinter)</h3>
 
 ###
 
@@ -74,24 +70,16 @@
 
 ###
 
-<br clear="both">
+<h4 align="left"></h4>
+
+###
+
+<img src="https://raw.githubusercontent.com/moubougrine/moubougrine/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moubougrine&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moubougrine/moubougrine/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moubougrine/moubougrine/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/moubougrine/moubougrine/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/moubougrine/count.svg?"  />
 </div>
 
 ###
